@@ -8,6 +8,9 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "dependencies": {
+    "@stackblitz/sdk": "^1.10.0"
+  },
   "devDependencies": {
     "vite": "^5.2.0"
   }
